@@ -74,7 +74,7 @@ setup(
     long_description_content_type="text/markdown",
     keywords="causal inference, causal discovery, prediction, time series",
     cmdclass=CMDCLASS,
-    install_requires=INSTALL_REQUIRES,
+    #install_requires=INSTALL_REQUIRES,
     extras_require=EXTRAS_REQUIRE,
     test_suite="tests",
     tests_require=TESTS_REQUIRE,
